@@ -1,6 +1,6 @@
 .footer {
   position: relative;
-  padding: 64px;
+  padding: 64px 0px;
   background: hsl(0deg, 0%, 5%);
   color: white;
   text-align: center;
